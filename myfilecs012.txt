@@ -1,1 +1,2 @@
 Line 1 added in remote repository
+Line 2 added in remote repository
